@@ -13,20 +13,27 @@ This repository contains a stock price prediction model that leverages an ensemb
 
 ## Model Explanation
 
-The model utilizes:
+**The model utilizes:**
 
 Random Forest Classifier: Captures non-linear relationships and reduces overfitting.
+
 Support Vector Machine (SVM): Effective for high-dimensional spaces and class separation.
+
 Ensemble Voting Classifier: Combines both models to enhance prediction accuracy.
+
 
 ## Performance Metrics
 
-The model is evaluated using:
+**The model is evaluated using:**
 
 Accuracy
+
 Precision & Recall
+
 F1 Score
+
 Confusion Matrix
+
 
 ## Contributions
 
